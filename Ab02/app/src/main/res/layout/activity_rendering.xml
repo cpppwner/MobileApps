@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mobileapps.aau.at.ab02.RenderingActivity">
+
+    <mobileapps.aau.at.ab02.animation.AnimationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:textFgColor="#000000"
+        app:bgColor="#FFFFFF"
+        app:textDimension="28sp"/>
+
+</android.support.constraint.ConstraintLayout>
