@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Übung 1 - Multitouch</string>
+    <string name="buttonClear.text">clear</string>
+</resources>
